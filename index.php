@@ -200,7 +200,7 @@ VALUES ('$username', '$password')";
 
   <div class="form-check form-check-inline">
     <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-    <label class="form-check-label" for="inlineCheckbox2">Mom</label>
+    <label class="form-check-label" for="inlineCheckbox2">Cyclist</label>
   </div>
 
 

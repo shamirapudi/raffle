@@ -78,27 +78,27 @@
           <div class="list-group">
             <a href="dashboard.php" class="list-group-item list-group-item-action active" aria-current="true">
               <div class="d-flex w-100 justify-content-between">
-                <h5 class="mb-1">Campaign-1</h5>
+                <h5 class="mb-1">Monate</h5>
                 <small>3 days ago</small>
               </div>
-              <p class="mb-1">Some placeholder content in a paragraph</p>
+              <p class="mb-1">Gives you more bundles to chat,call and browse at cheap prices!</p>
               <small>83% success rate.</small>
             </a>
             <a href="#" class="list-group-item list-group-item-action">
               <div class="d-flex w-100 justify-content-between">
-                <h5 class="mb-1">Campaign-2</h5>
+                <h5 class="mb-1">FreeMe 1.5gb</h5>
                 <small class="text-muted">1 Month ago</small>
               </div>
-              <p class="mb-1">Some placeholder content in a paragraph.</p>
+              <p class="mb-1">1GB All-network Data. 250MB Data for WhatsApp. 250MB Data for Streaming. 500 On-net calling (Telkom mobile & Telkom Fixed calling)</p>
               <small class="text-muted">72% success rate.</small>
             </a>
             <a href="#" class="list-group-item list-group-item-action">
               <div class="d-flex w-100 justify-content-between">
-                <h5 class="mb-1">Campaign-3</h5>
+                <h5 class="mb-1">Telkom Fibre</h5>
                 <small class="text-muted"> 1 year ago</small>
               </div>
-              <p class="mb-1">Some placeholder content in a paragraph.</p>
-              <small class="text-muted">54% success rate.</small>
+              <p class="mb-1">Starting from just R399PM for Telkom Fibre </p>
+              <small class="text-muted">84% success rate.</small>
             </a>
           </div>
 

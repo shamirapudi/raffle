@@ -46,9 +46,9 @@
         <div class="card mx-auto" style="width: 18rem;" >
           <img src="..." class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="app.php" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Telkom</h5>
+            <p class="card-text">Telkom is Africa's largest integrated communications company, providing integrated communications solutions to an entire range of customers.</p>
+            <a href="app.php" class="btn btn-primary">Participate</a>
           </div>
         </div>
          
@@ -57,9 +57,36 @@
         <div class="card mx-auto" style="width: 18rem;" >
           <img src="..." class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Nivea</h5>
+            <p class="card-text">NIVEA is one of the world's largest skin care brands with over 50 products available in 173 countries around the world.</p>
+            <a href="#" class="btn btn-primary">Participate</a>
+          </div>
+        </div>
+
+        <br>
+        <br>
+
+        
+        <div class="card mx-auto" style="width: 18rem;" >
+          <img src="..." class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Sausage Saloon</h5>
+            <p class="card-text">Sausage Saloon have taken the good ol’ fashioned classic, and created a new breed of hotdogs. A more fun, sexy, mouth-watering hotdog.</p>
+            <a href="#" class="btn btn-primary">Participate</a>
+          </div>
+        </div>
+
+        <br>
+        <br>
+
+     
+
+        <div class="card mx-auto" style="width: 18rem;" >
+          <img src="..." class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Specsavers</h5>
+            <p class="card-text">Specsavers offers optician services for eyesight testing and sells glasses, sunglasses, and contact lenses.</p>
+            <a href="#" class="btn btn-primary">Participate</a>
           </div>
         </div>
 
@@ -69,9 +96,9 @@
         <div class="card mx-auto" style="width: 18rem;" >
           <img src="..." class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">KOODO</h5>
+            <p class="card-text">For The Latest & Greatest Deals On Playstation 4 & 5 Games & Consoles. Browse now and discover more of our awesome gaming products today!</p>
+            <a href="#" class="btn btn-primary">Participate</a>
           </div>
         </div>
 
@@ -81,9 +108,9 @@
         <div class="card mx-auto" style="width: 18rem;" >
           <img src="..." class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Mr Price Money</h5>
+            <p class="card-text">Mr Price Money is an authorised Financial Services and Credit Provider.</p>
+            <a href="#" class="btn btn-primary">Participate</a>
           </div>
         </div>
 
@@ -93,21 +120,9 @@
         <div class="card mx-auto" style="width: 18rem;" >
           <img src="..." class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
-          </div>
-        </div>
-
-        <br>
-        <br>
-
-        <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <h5 class="card-title">Zando</h5>
+            <p class="card-text">Easy online shopping with the hottest fashion trends, brands, BEST prices online, multiple & secure payment options and fast delivery anywhere in SA!</p>
+            <a href="#" class="btn btn-primary">Participate</a>
           </div>
         </div>
         <br><br>
