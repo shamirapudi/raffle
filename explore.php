@@ -44,7 +44,7 @@
        <div class="container">
         
         <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
+          <img src="img/logo/telkom.png" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Telkom</h5>
             <p class="card-text">Telkom is Africa's largest integrated communications company, providing integrated communications solutions to an entire range of customers.</p>
@@ -54,8 +54,56 @@
          
         <br>
         <br>
+
         <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
+          <img src="img/logo/108.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Specsavers</h5>
+            <p class="card-text">Specsavers offers optician services for eyesight testing and sells glasses, sunglasses, and contact lenses.</p>
+            <a href="#" class="btn btn-primary">Participate</a>
+          </div>
+        </div>
+
+        <br>
+        <br>
+
+
+        <div class="card mx-auto" style="width: 18rem;" >
+          <img src="img/logo/koodo.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">KOODO</h5>
+            <p class="card-text">For The Latest & Greatest Deals On Playstation 4 & 5 Games & Consoles. Browse now and discover more of our awesome gaming products today!</p>
+            <a href="#" class="btn btn-primary">Participate</a>
+          </div>
+        </div>
+
+        <br>
+        <br>
+
+        <div class="card mx-auto" style="width: 18rem;" >
+          <img src="img/logo/mrpmoney.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Mr Price Money</h5>
+            <p class="card-text">Mr Price Money is an authorised Financial Services and Credit Provider.</p>
+            <a href="#" class="btn btn-primary">Participate</a>
+          </div>
+        </div>
+
+        <br>
+        <br>
+
+        <div class="card mx-auto" style="width: 18rem;" >
+          <img src="img/logo/zando.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Zando</h5>
+            <p class="card-text">Easy online shopping with the hottest fashion trends, brands, BEST prices online, multiple & secure payment options and fast delivery anywhere in SA!</p>
+            <a href="#" class="btn btn-primary">Participate</a>
+          </div>
+        </div>
+        <br><br>
+
+        <div class="card mx-auto" style="width: 18rem;" >
+          <img src="img/logo/NIVEA.svg" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Nivea</h5>
             <p class="card-text">NIVEA is one of the world's largest skin care brands with over 50 products available in 173 countries around the world.</p>
@@ -68,10 +116,10 @@
 
         
         <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
+          <img src="img/logo/lion.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title">Sausage Saloon</h5>
-            <p class="card-text">Sausage Saloon have taken the good ol’ fashioned classic, and created a new breed of hotdogs. A more fun, sexy, mouth-watering hotdog.</p>
+            <h5 class="card-title">Hungry Lion</h5>
+            <p class="card-text">Africa's BEST-LOVED chicken brand has a footprint across 7 African countries, employing over 4000 people in more than 200 stores!</p>
             <a href="#" class="btn btn-primary">Participate</a>
           </div>
         </div>
@@ -81,52 +129,9 @@
 
      
 
-        <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Specsavers</h5>
-            <p class="card-text">Specsavers offers optician services for eyesight testing and sells glasses, sunglasses, and contact lenses.</p>
-            <a href="#" class="btn btn-primary">Participate</a>
-          </div>
-        </div>
+     
 
-        <br>
-        <br>
-
-        <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">KOODO</h5>
-            <p class="card-text">For The Latest & Greatest Deals On Playstation 4 & 5 Games & Consoles. Browse now and discover more of our awesome gaming products today!</p>
-            <a href="#" class="btn btn-primary">Participate</a>
-          </div>
-        </div>
-
-        <br>
-        <br>
-
-        <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Mr Price Money</h5>
-            <p class="card-text">Mr Price Money is an authorised Financial Services and Credit Provider.</p>
-            <a href="#" class="btn btn-primary">Participate</a>
-          </div>
-        </div>
-
-        <br>
-        <br>
-
-        <div class="card mx-auto" style="width: 18rem;" >
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Zando</h5>
-            <p class="card-text">Easy online shopping with the hottest fashion trends, brands, BEST prices online, multiple & secure payment options and fast delivery anywhere in SA!</p>
-            <a href="#" class="btn btn-primary">Participate</a>
-          </div>
-        </div>
-        <br><br>
-
+        
       </div>
      
       <!-- logos end-->

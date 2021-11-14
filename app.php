@@ -46,8 +46,8 @@
        <!-- logos -->
        <div class="container">
         
-        <div class="card mx-auto" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
+        <div class="card mx-auto" style="width: 100px;height=100px">
+            <img src="img/logo/telkom.png" class="card-img-top" alt="...">
           
             
 
@@ -61,30 +61,34 @@
         <!-- heading-->
         <figure class="text-center">
             <blockquote class="blockquote">
-                <h1 class="display-6 ">Brand Name</h1>
+                <h1 class="display-6 ">Telkom</h1>
             </blockquote>
             <h6 class="lead" >Choose campaign</h6>
           </figure>
 
           <div class="card mx-auto" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="img/campgn/monate.png" class="card-img-top" alt="...">
             <div class="card-body">
+              
+            <h6 >Monate</h6>
               <p class="card-text">128 tickets</p>
             </div>
             <a href="#" class="btn btn-primary" data-target="#exampleModal"  data-toggle="modal" >Participate</a>
           </div>
           <br><br>
           <div class="card mx-auto" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="img/campgn/fibre.png" class="card-img-top" alt="...">
             <div class="card-body">
+            <h6 >Unlimited Fibre</h6>
               <p class="card-text">50 tickets</p>
             </div>
             <a href="#" class="btn btn-primary" data-target="#exampleModal"  data-toggle="modal" >Participate</a>
           </div>
           <br><br>
           <div class="card mx-auto" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="img/campgn/pay.png" class="card-img-top" alt="...">
             <div class="card-body">
+            <h6 >Telkom Pay</h6>
               <p class="card-text">95 tickets</p>
             </div>
             <a href="#" class="btn btn-primary"  >Participate</a>
