@@ -1,24 +1,24 @@
 <?php
 // Include config file
-require_once "config.php";
+// require_once "config.php";
 
 
-if ($_SERVER["REQUEST_METHOD"] == "POST"){
-  // removes backslashes
-$username = $_POST['username'];
-  //escapes special characters in a string
+// if ($_SERVER["REQUEST_METHOD"] == "POST"){
+//   // removes backslashes
+// $username = $_POST['username'];
+//   //escapes special characters in a string
  
- $password = $_POST['password'];
+//  $password = $_POST['password'];
 
 
-  $query = "INSERT into `users` (username, password)
-VALUES ('$username', '$password')";
-  $result = mysqli_query($link,$query);
-  if($result){
-    // Redirect to explore page
-    header("location: explore.php");
-  }
-}
+//   $query = "INSERT into `users` (username, password)
+// VALUES ('$username', '$password')";
+//   $result = mysqli_query($link,$query);
+//   if($result){
+//     // Redirect to explore page
+//     header("location: explore.php");
+//   }
+// }
 // Define variables and initialize with empty values
 
  
@@ -161,7 +161,7 @@ VALUES ('$username', '$password')";
         <br>
         <br>
 
-<form action="" method="post">
+<form action="explore.php" method="post">
           <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Username</label>
             <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="username" >
@@ -173,7 +173,7 @@ VALUES ('$username', '$password')";
           </div>
           <div class="mb-3 form-check">
             <input type="checkbox" class=",form-check-input" id="exampleCheck1">
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            <div id="emailHelp" class="form-text">I agree to cookie access.</div>
           </div>
 
           <div class="mb-3">

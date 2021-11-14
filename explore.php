@@ -20,11 +20,8 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto ">
               <li class="nav-item ">
-                <a class="nav-link active" aria-current="page" href="#">amount</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">avater</a>
-              </li>
+                <a class="nav-link active" aria-current="page" href="#">user101</a>
+           
            
             
             </ul>
@@ -43,6 +40,8 @@
        <!-- logos -->
        <div class="container">
         
+
+
         <div class="card mx-auto" style="width: 18rem;" >
           <img src="img/logo/telkom.png" class="card-img-top" alt="...">
           <div class="card-body">
