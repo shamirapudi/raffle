@@ -44,13 +44,6 @@
        <!-- logos -->
        <div class="container">
         
-        <div class="card mx-auto" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
-          
-            
-
-          </div>
-         
         <br>
         <br>
         

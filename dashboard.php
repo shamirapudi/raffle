@@ -44,12 +44,13 @@
        <!-- logos -->
        <div class="container">
         
-        <div class="card mx-auto" style="width: 18rem;">
-            <img src="..." class="card-img-top" alt="...">
+       <div class="card mx-auto" style="width: 100px;height=100px">
+            <img src="img/logo/telkom.png" class="card-img-top" alt="...">
           
             
 
           </div>
+         
          
         <br>
         <br>
@@ -59,7 +60,7 @@
         <!-- heading-->
         <figure class="text-center">
             <blockquote class="blockquote">
-                <h1 class="display-6">Brand Name</h1>
+                <h1 class="display-6">Telkom</h1>
             </blockquote>
             <h6 class="lead" >Overview Stats</h6>
           </figure>
