@@ -69,7 +69,7 @@
           <br><br>
 
           <div class="card mx-auto " style="width: 18rem;">
-            <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+            <img class="card-img-top" src="img/campgn/ps5.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">PS5</h5>
               <p class="card-text">You have entered: 18 times.</p>
@@ -79,7 +79,7 @@
           <br>
      
           <div class="card mx-auto" style="width: 18rem;">
-            <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+            <img class="card-img-top" src="img/campgn/R20.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title"> R20 Airtime voucher</h5>
               <p class="card-text">You have entered: 0 times.</p>
@@ -91,9 +91,9 @@
 
       
           <div class="card mx-auto" style="width: 18rem;">
-            <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+            <img class="card-img-top" src="img/campgn/iphone11.png" alt="Card image cap">
             <div class="card-body">
-              <h5 class="card-title">Logitech mouse</h5>
+              <h5 class="card-title">iPhone 11</h5>
               <p class="card-text">You have entered: 3 times.</p>
               <a href="#" class="btn btn-primary">Enter raffle</a>
             </div>
